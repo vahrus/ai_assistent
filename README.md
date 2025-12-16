@@ -64,7 +64,7 @@
 ---
 
 ## Пример диалога
-![Диалог в Telegram](https://myoctocat.com/assets/images/base-octocat.svg)
+![Диалог в Telegram](https://github.com/vahrus/ai_assistent/blob/main/Бот%20салона%20красоты.png?raw=true)
 
 ## 📬 Контакты / Поддержка
 
