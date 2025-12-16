@@ -64,7 +64,7 @@
 ---
 
 ## Пример диалога
-![Диалог в Telegram](https://github.com/vahrus/ai_assistent/blob/main/Бот%20салона%20красоты.png?raw=true)
+![Диалог в Telegram](https://raw.githubusercontent.com/vahrus/ai_assistent/3fc577cc3d36f1adcec88efe40a136ef7cb9a3af/bot_salon.svg)
 
 ## 📬 Контакты / Поддержка
 
